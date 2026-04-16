@@ -67,3 +67,4 @@ Gender filter – Drill down into male/female-specific insights
 
 **Screenshots/Demos:**
 Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/aavegchitranshi16-hub/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20HR%20Anayltics%20Dashboard.png)
